@@ -16,7 +16,6 @@ Our platform is built with a focus on **Data Integrity** and **Actionable Metric
 
 | Component | Technical Focus | Status |
 | :--- | :--- | :--- |
-| **Hardware Builder** | TDP-based PSU sizing & GPU-VRAM mapping | `STABLE` |
 | **Nerf Tracker** | Intelligence degradation (Lobotomization) monitoring | `ACTIVE` |
 | **Model Radar** | 6-axis performance comparison (Speed, Cost, Reasoning...) | `LIVE` |
 
