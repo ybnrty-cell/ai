@@ -24,7 +24,6 @@ Our platform is built with a focus on **Data Integrity** and **Actionable Metric
 This site acts as a low-latency gateway to our main research platform. 
 
 - [**Main Hub (Live)**](https://ai-tools-hub.site) - Full database, articles, and interactive tools.
-- [**Hardware Diagnostic**](https://ai-tools-hub.site/articles/hardware/local-ai-builder.html) - Calculate your local AI build.
 - [**Crisis Reports**](https://ai-tools-hub.site/articles/news/index.html) - Real-time analysis of industry-shaking events.
 
 ---
